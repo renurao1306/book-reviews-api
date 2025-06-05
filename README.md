@@ -328,6 +328,7 @@ Sample Response:
 ```
 
 **Relationships**
+
 - A User can create multiple Reviews.
 
 - A Book can have multiple Reviews.
@@ -337,4 +338,5 @@ Sample Response:
 - A User can review a Book only once.
 
 **ER Diagram**
+
 ![ER Diagram](assets/ER_Diagram.png)
